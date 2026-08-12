@@ -39,8 +39,8 @@ Focuses on appearance	Focuses on user experience
 Includes colors, fonts, icons, and layouts	Includes usability, accessibility, and satisfaction
 Makes the product visually attractive	Makes the product easy and enjoyable to use
 Designed by UI Designers	Designed by UX Designers
-~~~
-(c) Relationship between UI and UX
+
+(c) Relationship between UI and UX:
 User Research
       │
       ▼
