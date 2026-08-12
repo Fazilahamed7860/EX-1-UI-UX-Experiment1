@@ -2,7 +2,8 @@ UI-UX-Experiment1
 Aim
 To explore the fundamentals of User Interface (UI) and User Experience (UX), differentiate between them using real-world case studies, understand their relationship in digital product design, and demonstrate various UI/UX design tools.
 
-Algorithm
+Algorithm:
+~~~
 1. Explore the Fundamentals of UI and UX
 Study the basic concepts of User Interface (UI) and User Experience (UX).
 Understand the objectives and importance of UI and UX.
@@ -38,6 +39,7 @@ Focuses on appearance	Focuses on user experience
 Includes colors, fonts, icons, and layouts	Includes usability, accessibility, and satisfaction
 Makes the product visually attractive	Makes the product easy and enjoyable to use
 Designed by UI Designers	Designed by UX Designers
+~~~
 (c) Relationship between UI and UX
 User Research
       │
@@ -59,6 +61,7 @@ User Testing
       ▼
 Final Product
 UI and UX work together to create user-friendly applications. A beautiful interface without good usability leads to poor user satisfaction, while excellent usability without an attractive interface reduces user engagement.
+~~~
 
 (d) UI/UX Design Tools
 Tool	Purpose
@@ -67,5 +70,6 @@ Adobe XD	UI Design, Interactive Prototyping
 Sketch	Vector-based UI Design for macOS
 InVision	Prototyping, Design Collaboration, Feedback
 Canva	Basic UI Mockups and Graphic Design
+~~~
 Result
 Successfully explored the fundamentals of UI and UX, differentiated them using real-world case studies, understood their relationship in product design, and studied various UI/UX design tools.
